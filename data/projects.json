@@ -1,0 +1,33 @@
+[
+    
+  {
+    "title": "PID Water Level Control System",
+    "year": "Semester 5",
+    "role": "Schematic Designer",
+    "description": "Developed a precision water level control system using PID methods based on Arduino Uno and Nano. Responsible for the full electronic schematic design.",
+    "image": "images/waterlevel.jpeg"
+  },
+  {
+    "title": "ESP32 Stair-Climbing Robot",
+    "year": "Semester 4",
+    "role": "Mechanical Designer",
+    "description": "Built a prototype stair-climbing robot controlled by an ESP32 microcontroller. Focused on the design, structural planning, and assembly of the mechanical components.",
+    "image": "images/stairclimb.jpeg"
+  },
+  {
+    "title": "Fetal Heartbeat Simulator for Calibration",
+    "year": "Semester 3",
+    "role": "Mechanical Designer",
+    "description": "Created a fetal heartbeat simulator for medical calibration using an Arduino Uno R3 and a modified oil-filled relay actuator to precisely simulate heartbeats. Handled mechanical design and assembly.",
+    "image": "images/heartsimulator.jpeg"
+  },
+  {
+    "title": "Superlab Network & IoT Infrastructure",
+    "year": "Semester 4",
+    "role": "Network & IoT Implementer",
+    "description": "Implemented network infrastructure including VLAN segmentation and DHCP, integrated with an IoT-based RFID identification system.",
+    "image": "images/superlabprojek.jpeg"
+  }
+
+	
+]

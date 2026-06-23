@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science (D4) in Electronic Engineering",
+        "year": "2021 - 2023",
+        "description": "GPA of 3.48 ; Focusing on Microcontroller Systems, IoT, and Mechanical Layout Design. Currently developing a Final Project on a Modular Automated Electroplating Machine using ESP32. Active contributor in practical projects involving schematic design (Proteus) and mechanical assembly."
+    },
+    {
+        "university": "SMK Negeri 2 Salatiga",
+		"logo": "images/stendza_logo.png",
+        "major": "Industrial Electronics Engineering",
+        "year": "2023 - 2027",
+        "description": "Certified Professional in Industrial Electronics by LSP (Lembaga Sertifikasi Profesi). Acquired strong foundational skills in hardware wiring, electronic circuit assembly, and basic control systems, providing a solid base for advanced engineering projects"
+    }
+]

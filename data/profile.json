@@ -1,0 +1,29 @@
+{
+    "name": "Frisca Syaharani - Student of Electronic Engineering",
+    "description": "Final-year Applied Science (D4) student in Electronic Engineering with a strong interest in microcontroller systems (ESP32, Arduino) and software development using Lazarus (Pascal). Experienced in mechanical layout design, electronic schematic creation, and integrating automation systems. Passionate about combining programming logic with hardware design to solve practical challenges in the Internet of Things (IoT) and industrial control domains.",
+    "profileImage": "images/frisca.jpg",
+    "email": "frisca.4423009@mhs.polines.ac.id",
+    "phone": "+62 (857) 293-22160",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/frisca-syaharani-4830362b4?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/frissyafris"
+        }
+    ],
+
+    "skills": [
+        {"name": "Microcontroller Systems", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Desktop Programming", "icon": "fas fa-laptop-code", "level": 80},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Mechanical Design", "icon": "fas fa-wrench", "level": 50},
+        {"name": "Hardware Programming", "icon": "fas fa-code", "level": 70},
+        {"name": "Schematic Design", "icon": "fas fa-bolt", "level": 70},
+        {"name": "Project Management", "icon": "fas fa-list-check", "level": 85},
+        {"name": "Resilience & Time Management", "icon": "fas fa-hourglass-half", "level": 88},
+        {"name": "Foreign Languages", "icon": "fas fa-language", "level": 76}
+    ]
+}

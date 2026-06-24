@@ -5,7 +5,7 @@
     "email": "frisca.43423009@mhs.polines.ac.id",
     "phone": "+62 (857) 293-22160",
     "socialMedia": [
-        {
+{
             "platform": "LinkedIn",
             "url": "https://www.linkedin.com/in/frisca-syaharani-4830362b4?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         },
@@ -14,7 +14,11 @@
             "url": "https://github.com/frissyafris"
         }
     ],
-
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/Frisca_Syaharani_CV.pdf",
+        "icon": "fas fa-file-pdf"
+    },
     "skills": [
         {"name": "Microcontroller Systems", "icon": "fas fa-microchip", "level": 80},
         {"name": "Desktop Programming", "icon": "fas fa-laptop-code", "level": 80},

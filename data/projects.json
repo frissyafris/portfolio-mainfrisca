@@ -15,18 +15,18 @@
     "image": "images/stairclimb.jpeg"
   },
   {
-    "title": "Fetal Heartbeat Simulator for Calibration",
-    "year": "Semester 3",
-    "role": "Mechanical Designer",
-    "description": "Created a fetal heartbeat simulator for medical calibration using an Arduino Uno R3 and a modified oil-filled relay actuator to precisely simulate heartbeats. Handled mechanical design and assembly.",
-    "image": "images/heartsimulator.jpeg"
-  },
-  {
     "title": "Superlab Network & IoT Infrastructure",
     "year": "Semester 4",
     "role": "Network & IoT Implementer",
     "description": "Implemented network infrastructure including VLAN segmentation and DHCP, integrated with an IoT-based RFID identification system.",
     "image": "images/superlabprojek.jpeg"
+  },
+  {
+    "title": "Fetal Heartbeat Simulator for Calibration",
+    "year": "Semester 3",
+    "role": "Mechanical Designer",
+    "description": "Created a fetal heartbeat simulator for medical calibration using an Arduino Uno R3 and a modified oil-filled relay actuator to precisely simulate heartbeats. Handled mechanical design and assembly.",
+    "image": "images/heartsimulator.jpeg"
   }
 
 	
